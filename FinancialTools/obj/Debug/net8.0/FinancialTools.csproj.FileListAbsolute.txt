@@ -1,0 +1,11 @@
+C:\Users\mugur\source\repos\BudgetApp\FinancialTools\bin\Debug\net8.0\FinancialTools.deps.json
+C:\Users\mugur\source\repos\BudgetApp\FinancialTools\bin\Debug\net8.0\FinancialTools.dll
+C:\Users\mugur\source\repos\BudgetApp\FinancialTools\bin\Debug\net8.0\FinancialTools.pdb
+C:\Users\mugur\source\repos\BudgetApp\FinancialTools\obj\Debug\net8.0\FinancialTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mugur\source\repos\BudgetApp\FinancialTools\obj\Debug\net8.0\FinancialTools.AssemblyInfoInputs.cache
+C:\Users\mugur\source\repos\BudgetApp\FinancialTools\obj\Debug\net8.0\FinancialTools.AssemblyInfo.cs
+C:\Users\mugur\source\repos\BudgetApp\FinancialTools\obj\Debug\net8.0\FinancialTools.csproj.CoreCompileInputs.cache
+C:\Users\mugur\source\repos\BudgetApp\FinancialTools\obj\Debug\net8.0\FinancialTools.dll
+C:\Users\mugur\source\repos\BudgetApp\FinancialTools\obj\Debug\net8.0\refint\FinancialTools.dll
+C:\Users\mugur\source\repos\BudgetApp\FinancialTools\obj\Debug\net8.0\FinancialTools.pdb
+C:\Users\mugur\source\repos\BudgetApp\FinancialTools\obj\Debug\net8.0\ref\FinancialTools.dll

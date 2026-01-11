@@ -1,0 +1,4 @@
+=== RAPORT BUGET ===
+Total Venituri: 10000
+Total Cheltuieli: 3298
+Balanta: 6702
